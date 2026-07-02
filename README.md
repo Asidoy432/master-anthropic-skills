@@ -1,26 +1,28 @@
 # Master Anthropic Omnibus Architect Profile
 
-This repository houses the core operational manifest, strict architectural guardrails, and system engineering profiles used to inject senior developer logic directly into Cloud AI workflows (such as Claude Code, Claude Projects, and GitHub Copilot).
+This repository houses the core operational manifest, strict architectural guardrails, and system engineering profiles used to inject senior developer logic directly into Cloud AI workflows.
 
 ## 🚀 Active Skills Overview
-- **10+ Years Enterprise Persona:** Configures the AI to act as a Senior Staff Cloud Systems Engineer.
+- **10+ Years Full-Stack & Web Developer Persona:** Configures the AI to act as a Senior Staff Systems Engineer and Master Frontend Architect simultaneously.
 - **Zero-Hallucination Execution Framework:** Hardens the system against code truncation, assumptions, and invented library methods.
 - **Pre-Flight Diagnostic Pipeline:** Forces a mandatory multi-phase validation and structural code check before code delivery.
-- **17 Official Anthropic Skills Capabilities:** Integrates comprehensive handlers for UI/UX token mapping, file processing (`[pdf]`, `[docx]`, `[xlsx]`), creative design tools, and automated testing engines.
+- **17 Official Anthropic Skills Capabilities:** Integrates comprehensive handlers for UI/UX token mapping, file processing, and automated testing engines.
 
 ## 🛠️ Mobile App Activation Protocol
 
 To apply these rules natively on your mobile chat interface:
-1. Initialize a **New Chat** inside your Claude application.
-2. Tap the **`+` (Plus / Paperclip)** icon on the chat input bar.
-3. Select **Add from GitHub** and pin this repository (`master-anthropic-skills`) directly to the conversation layer.
-4. Attach your target code file or layout blueprint PDF asset.
-5. Execute the trigger command at the absolute top of your instruction prompt.
+1. Initialize a **New Chat** inside your Claude application's "Skills" project workspace.
+2. Type either `/skills` or `@skill` at the absolute top of your instruction prompt.
+3. Attach your target code file or layout blueprint PDF asset.
 
-## ⚡ Global Activation Trigger Phrase
+## ⚡ Mobile Activation Shortcuts
 
 ```text
-"Run the master-anthropic-omnibus-architect skill layout on this attached file."
+/skills
+```
+OR
+```text
+@skill
 ```
 
 ## 🔒 Operational Compliance Matrix
